@@ -1,0 +1,7 @@
+C:\Users\2019101365\Desktop\provafinal\provafinal\obj\Debug\provafinal.csprojAssemblyReference.cache
+C:\Users\2019101365\Desktop\provafinal\provafinal\obj\Debug\provafinal.csproj.CoreCompileInputs.cache
+C:\Users\2019101365\Desktop\provafinal\provafinal\bin\Debug\provafinal.exe.config
+C:\Users\2019101365\Desktop\provafinal\provafinal\bin\Debug\provafinal.exe
+C:\Users\2019101365\Desktop\provafinal\provafinal\bin\Debug\provafinal.pdb
+C:\Users\2019101365\Desktop\provafinal\provafinal\obj\Debug\provafinal.exe
+C:\Users\2019101365\Desktop\provafinal\provafinal\obj\Debug\provafinal.pdb
